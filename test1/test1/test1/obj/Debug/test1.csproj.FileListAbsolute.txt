@@ -1,0 +1,13 @@
+C:\Users\royab\OneDrive\Desktop\TM2\test1\test1\bin\Debug\test1.exe.config
+C:\Users\royab\OneDrive\Desktop\TM2\test1\test1\bin\Debug\test1.exe
+C:\Users\royab\OneDrive\Desktop\TM2\test1\test1\bin\Debug\test1.pdb
+C:\Users\royab\OneDrive\Desktop\TM2\test1\test1\obj\Debug\test1.csprojAssemblyReference.cache
+C:\Users\royab\OneDrive\Desktop\TM2\test1\test1\obj\Debug\test1.Form1.resources
+C:\Users\royab\OneDrive\Desktop\TM2\test1\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\royab\OneDrive\Desktop\TM2\test1\test1\obj\Debug\test1.csproj.GenerateResource.cache
+C:\Users\royab\OneDrive\Desktop\TM2\test1\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+C:\Users\royab\OneDrive\Desktop\TM2\test1\test1\obj\Debug\test1.exe
+C:\Users\royab\OneDrive\Desktop\TM2\test1\test1\obj\Debug\test1.pdb
+C:\Users\royab\Downloads\test1\test1\test1\obj\Debug\test1.csprojAssemblyReference.cache
+C:\Users\royab\Downloads\test1\test1\test1\obj\Debug\test1.exe
+C:\Users\royab\Downloads\test1\test1\test1\obj\Debug\test1.pdb
